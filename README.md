@@ -1,4 +1,4 @@
-# pizza-hackathon
+# Smart Auction
 <p align="center"><a href="#" target="_blank" rel="noopener noreferrer"><img width="200" src="https://raw.githubusercontent.com/totiz/LiveDashboard/dev/images/Pizza_Hackathon_Logo.png" alt="Vue logo"></a></p>
 
 ### ไฟล์ .sol เปิดด้วยเว็บ   https://remix.ethereum.org
